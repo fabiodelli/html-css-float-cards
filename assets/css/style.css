@@ -5,5 +5,52 @@
 }
 
 h1{
-    color: crimson;
+    color: #d863a1;
+    font-size: 50px;
+    margin-bottom: 5rem;
+}
+
+p{
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 3rem;
+}
+
+body{
+    width: 80%;
+    margin: auto;
+    clear: both;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 4rem;
+}
+
+.label{
+    background-color: black;
+    color: aliceblue;
+    display: inline-block;
+    height: 150px;
+    width:calc(100%/3);
+    float: left;
+
+}
+
+
+span{
+    display: inline-block;
+    line-height: 50px;
+    margin-left: 4rem;
+    vertical-align:bottom;
+    
+}
+
+img{
+    height: 150px;
+}
+
+a{
+    display: inline-block;
+    text-decoration: none;
+
+    
 }
