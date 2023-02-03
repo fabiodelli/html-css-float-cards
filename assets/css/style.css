@@ -31,7 +31,7 @@ p{
     color: aliceblue;
     display: inline-block;
     height: 150px;
-    min-width: 450px;
+    min-width: 475px;
     width:calc(92%/3);
     float: left;
     text-align: left;
